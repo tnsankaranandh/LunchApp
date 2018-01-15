@@ -1,0 +1,23 @@
+<button class="btn" ng-click="vm.addHotel()">Add</button>
+<div full-height>
+    <table class="table table-striped table-bordered table-hover table-condensed" scrolly="vm.loadNextPage()" scroll-disabled="vm.isQuerying || !vm.hasMoreData">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Edit</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="h in vm.hotels">
+                <td>
+                    <span ng-if="!h.isInEditMode">{{h.name}}</span>
+                    <input class="form-control" ng-if="!!h.isInEditMode" ng-model="h.name" />
+                </td>
+                <td>
+                    <button class="btn btn-warning" ng-if="!h.isInEditMode" ng-click="h.isInEditMode = true;">Edit</button>
+                    <button class="btn btn-primary" ng-if="!!h.isInEditMode" ng-click="vm.saveHotel(h);h.isInEditMode = false">Save</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

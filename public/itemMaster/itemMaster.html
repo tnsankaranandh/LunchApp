@@ -1,0 +1,33 @@
+<button class="btn" ng-click="vm.addItem()">Add</button>
+<div full-height>
+    <table class="table table-striped table-bordered table-hover table-condensed" scrolly="vm.loadNextPage()" scroll-disabled="vm.isQuerying || !vm.hasMoreData">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Hotel</th>
+                <th>Rate</th>
+                <th>Edit</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="i in vm.items">
+                <td>
+                    <span ng-if="!i.isInEditMode">{{i.name}}</span>
+                    <input class="form-control" ng-if="!!i.isInEditMode" ng-model="i.name" />
+                </td>
+                <td>
+                    <span ng-if="!i.isInEditMode">{{i.hotelUid.name}}</span>
+                    <input class="form-control" id="hotelTypeAhead{{$index}}" ng-if="!!i.isInEditMode" value="{{i.hotelUid.name}}" />
+                </td>
+                <td>
+                    <span ng-if="!i.isInEditMode">{{i.rate}}</span>
+                    <input class="form-control" ng-if="!!i.isInEditMode" ng-model="i.rate" type="number" />
+                </td>
+                <td>
+                    <button class="btn btn-warning" ng-if="!i.isInEditMode" ng-click="i.isInEditMode = true;vm.enableTypeAhead($index)">Edit</button>
+                    <button class="btn btn-primary" ng-if="!!i.isInEditMode" ng-click="vm.saveItem(i);i.isInEditMode = false">Save</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,855 @@
+{"timestamp":"2017-08-20T09:32:16.889Z","pid":6421,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:33:24.252Z","pid":6475,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:33:50.641Z","pid":6513,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:34:05.993Z","pid":6541,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:34:29.619Z","pid":6587,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:34:40.441Z","pid":6630,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:34:52.660Z","pid":6664,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:35:36.873Z","pid":6743,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:36:29.083Z","pid":6896,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:37:17.771Z","pid":6942,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:37:52.810Z","pid":6973,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:37:57.928Z","pid":7005,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:38:09.236Z","pid":7037,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:39:17.855Z","pid":7128,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:40:35.779Z","pid":7223,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:40:54.492Z","pid":7282,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:42:07.995Z","pid":7444,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:43:28.751Z","pid":7599,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:43:42.860Z","pid":7626,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-08-20T09:44:29.475Z","pid":7667,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T06:29:06.636Z","pid":3562,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T06:44:44.022Z"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T06:45:28.461Z"}
+{"timestamp":"2017-09-02T06:45:50.894Z","pid":4067,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T07:25:35.483Z"}
+{"timestamp":"2017-09-02T07:44:49.182Z","pid":4800,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:01:37.662Z","pid":4936,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:06:04.184Z","pid":4986,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:07:47.568Z","pid":5133,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:07:59.783Z","pid":5164,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:14:33.165Z","pid":5900,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:14:37.408Z","pid":5923,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:14:58.074Z","pid":5948,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:16:14.505Z","pid":5995,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:19:04.668Z","pid":6068,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:19:39.148Z","pid":6099,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T08:19:39.302Z"}
+{"timestamp":"2017-09-02T08:21:26.834Z","pid":6181,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T08:21:27.323Z"}
+{"timestamp":"2017-09-02T08:21:41.922Z","pid":6216,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:21:51.186Z","pid":6245,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:22:18.544Z","pid":6295,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T08:22:22.895Z"}
+{"timestamp":"2017-09-02T08:23:20.626Z","pid":6374,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T08:23:51.746Z"}
+{"timestamp":"2017-09-02T08:24:27.271Z","pid":6440,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T08:24:31.630Z"}
+{"timestamp":"2017-09-02T08:25:02.576Z","pid":6497,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:25:12.656Z","pid":6547,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T08:25:13.667Z"}
+{"timestamp":"2017-09-02T08:25:42.886Z","pid":6585,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T08:25:46.317Z"}
+{"timestamp":"2017-09-02T08:27:45.222Z","pid":6658,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:28:06.011Z","pid":6689,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:28:26.212Z","pid":6755,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T08:28:30.271Z"}
+{"timestamp":"2017-09-02T08:30:39.245Z","pid":6799,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:32:08.170Z","pid":6943,"level":"info","message":"App runs on port 8080"}
+{"url":"/company/create","errorMessage":"Shop name already exists!","technicalError":{"e":null,"d":[{"_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":105,"3":155,"4":31,"5":229,"6":118,"7":23,"8":211,"9":99,"10":74,"11":209}},"tenantDBName":"saravanastores","tenantDomain":"saravanastores","updatedAt":"2017-09-02T08:19:39.317Z","createdAt":"2017-09-02T08:19:39.316Z","zipcode":"600048","country":"India","state":"Tamil Nadu","city":"Chennai","address":"No.23,RanganathanStreet,TNagar","companyImage":"base64encodedStringOfImage","categoryUid":{"_bsontype":"ObjectID","id":{"0":89,"1":153,"2":89,"3":236,"4":16,"5":92,"6":101,"7":11,"8":11,"9":49,"10":250,"11":203}},"name":"SaravanaStores","contacts":[{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":105,"3":155,"4":31,"5":229,"6":118,"7":23,"8":211,"9":99,"10":74,"11":210}}},{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":105,"3":155,"4":31,"5":229,"6":118,"7":23,"8":211,"9":99,"10":74,"11":211}}}],"__v":0},{"_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":7,"4":159,"5":150,"6":38,"7":24,"8":37,"9":208,"10":25,"11":154}},"tenantDBName":"saravanastores","tenantDomain":"saravanastores","updatedAt":"2017-09-02T08:21:27.342Z","createdAt":"2017-09-02T08:21:27.342Z","zipcode":"600048","country":"India","state":"Tamil Nadu","city":"Chennai","address":"No.23,RanganathanStreet,TNagar","companyImage":"base64encodedStringOfImage","categoryUid":{"_bsontype":"ObjectID","id":{"0":89,"1":153,"2":89,"3":236,"4":16,"5":92,"6":101,"7":11,"8":11,"9":49,"10":250,"11":203}},"name":"SaravanaStores","contacts":[{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":7,"4":159,"5":150,"6":38,"7":24,"8":37,"9":208,"10":25,"11":155}}},{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":7,"4":159,"5":150,"6":38,"7":24,"8":37,"9":208,"10":25,"11":156}}}],"__v":0},{"_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":62,"4":228,"5":152,"6":53,"7":24,"8":151,"9":227,"10":164,"11":184}},"tenantDBName":"saravanastores","tenantDomain":"saravanastores","updatedAt":"2017-09-02T08:22:22.910Z","createdAt":"2017-09-02T08:22:22.910Z","zipcode":"600048","country":"India","state":"Tamil Nadu","city":"Chennai","address":"No.23,RanganathanStreet,TNagar","companyImage":"base64encodedStringOfImage","categoryUid":{"_bsontype":"ObjectID","id":{"0":89,"1":153,"2":89,"3":236,"4":16,"5":92,"6":101,"7":11,"8":11,"9":49,"10":250,"11":203}},"name":"SaravanaStores","contacts":[{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":62,"4":228,"5":152,"6":53,"7":24,"8":151,"9":227,"10":164,"11":185}}},{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":62,"4":228,"5":152,"6":53,"7":24,"8":151,"9":227,"10":164,"11":186}}}],"__v":0},{"_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":151,"4":93,"5":208,"6":109,"7":24,"8":230,"9":81,"10":191,"11":143}},"tenantDBName":"saravanastores","tenantDomain":"saravanastores","updatedAt":"2017-09-02T08:23:51.772Z","createdAt":"2017-09-02T08:23:51.771Z","zipcode":"600048","country":"India","state":"Tamil Nadu","city":"Chennai","address":"No.23,RanganathanStreet,TNagar","companyImage":"base64encodedStringOfImage","categoryUid":{"_bsontype":"ObjectID","id":{"0":89,"1":153,"2":89,"3":236,"4":16,"5":92,"6":101,"7":11,"8":11,"9":49,"10":250,"11":203}},"name":"SaravanaStores","contacts":[{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":151,"4":93,"5":208,"6":109,"7":24,"8":230,"9":81,"10":191,"11":144}}},{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":151,"4":93,"5":208,"6":109,"7":24,"8":230,"9":81,"10":191,"11":145}}}],"__v":0},{"_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":191,"4":3,"5":189,"6":49,"7":25,"8":40,"9":105,"10":25,"11":28}},"tenantDBName":"saravanastores","tenantDomain":"saravanastores","updatedAt":"2017-09-02T08:24:31.647Z","createdAt":"2017-09-02T08:24:31.647Z","zipcode":"600048","country":"India","state":"Tamil Nadu","city":"Chennai","address":"No.23,RanganathanStreet,TNagar","companyImage":"base64encodedStringOfImage","categoryUid":{"_bsontype":"ObjectID","id":{"0":89,"1":153,"2":89,"3":236,"4":16,"5":92,"6":101,"7":11,"8":11,"9":49,"10":250,"11":203}},"name":"SaravanaStores","contacts":[{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":191,"4":3,"5":189,"6":49,"7":25,"8":40,"9":105,"10":25,"11":29}}},{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":191,"4":3,"5":189,"6":49,"7":25,"8":40,"9":105,"10":25,"11":30}}}],"__v":0},{"_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":233,"4":141,"5":41,"6":214,"7":25,"8":147,"9":12,"10":96,"11":206}},"tenantDBName":"saravanastores","tenantDomain":"saravanastores","updatedAt":"2017-09-02T08:25:13.720Z","createdAt":"2017-09-02T08:25:13.719Z","zipcode":"600048","country":"India","state":"Tamil Nadu","city":"Chennai","address":"No.23,RanganathanStreet,TNagar","companyImage":"base64encodedStringOfImage","categoryUid":{"_bsontype":"ObjectID","id":{"0":89,"1":153,"2":89,"3":236,"4":16,"5":92,"6":101,"7":11,"8":11,"9":49,"10":250,"11":203}},"name":"SaravanaStores","contacts":[{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":233,"4":141,"5":41,"6":214,"7":25,"8":147,"9":12,"10":96,"11":207}}},{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":106,"3":233,"4":141,"5":41,"6":214,"7":25,"8":147,"9":12,"10":96,"11":208}}}],"__v":0},{"_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":107,"3":10,"4":244,"5":32,"6":31,"7":25,"8":185,"9":221,"10":40,"11":7}},"tenantDBName":"saravanastores","tenantDomain":"saravanastores","updatedAt":"2017-09-02T08:25:46.335Z","createdAt":"2017-09-02T08:25:46.335Z","zipcode":"600048","country":"India","state":"Tamil Nadu","city":"Chennai","address":"No.23,RanganathanStreet,TNagar","companyImage":"base64encodedStringOfImage","categoryUid":{"_bsontype":"ObjectID","id":{"0":89,"1":153,"2":89,"3":236,"4":16,"5":92,"6":101,"7":11,"8":11,"9":49,"10":250,"11":203}},"name":"SaravanaStores","contacts":[{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":107,"3":10,"4":244,"5":32,"6":31,"7":25,"8":185,"9":221,"10":40,"11":8}}},{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":107,"3":10,"4":244,"5":32,"6":31,"7":25,"8":185,"9":221,"10":40,"11":9}}}],"__v":0},{"_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":107,"3":174,"4":234,"5":84,"6":72,"7":26,"8":99,"9":199,"10":177,"11":247}},"tenantDBName":"saravanastores","tenantDomain":"saravanastores","updatedAt":"2017-09-02T08:28:30.288Z","createdAt":"2017-09-02T08:28:30.288Z","zipcode":"600048","country":"India","state":"Tamil Nadu","city":"Chennai","address":"No.23,RanganathanStreet,TNagar","companyImage":"base64encodedStringOfImage","categoryUid":{"_bsontype":"ObjectID","id":{"0":89,"1":153,"2":89,"3":236,"4":16,"5":92,"6":101,"7":11,"8":11,"9":49,"10":250,"11":203}},"name":"SaravanaStores","contacts":[{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":107,"3":174,"4":234,"5":84,"6":72,"7":26,"8":99,"9":199,"10":177,"11":248}}},{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":107,"3":174,"4":234,"5":84,"6":72,"7":26,"8":99,"9":199,"10":177,"11":249}}}],"__v":0}]},"level":"error","message":"","timestamp":"2017-09-02T08:32:09.978Z"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-02T08:32:51.238Z"}
+{"url":"/company/create","errorMessage":"Shop name already exists!","technicalError":{"e":null,"d":[{"_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":108,"3":179,"4":96,"5":2,"6":13,"7":27,"8":31,"9":237,"10":50,"11":194}},"tenantDBName":"saravanastores","tenantDomain":"saravanastores","updatedAt":"2017-09-02T08:32:51.259Z","createdAt":"2017-09-02T08:32:51.259Z","zipcode":"600048","country":"India","state":"Tamil Nadu","city":"Chennai","address":"No.23,RanganathanStreet,TNagar","companyImage":"base64encodedStringOfImage","categoryUid":{"_bsontype":"ObjectID","id":{"0":89,"1":153,"2":89,"3":236,"4":16,"5":92,"6":101,"7":11,"8":11,"9":49,"10":250,"11":203}},"name":"SaravanaStores","contacts":[{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":108,"3":179,"4":96,"5":2,"6":13,"7":27,"8":31,"9":237,"10":50,"11":195}}},{"mobilephone":"9042495512","landlinephone":"0442479278","website":"www.saravanastores.com","_id":{"_bsontype":"ObjectID","id":{"0":89,"1":170,"2":108,"3":179,"4":96,"5":2,"6":13,"7":27,"8":31,"9":237,"10":50,"11":196}}}],"__v":0}]},"level":"error","message":"","timestamp":"2017-09-02T08:32:54.811Z"}
+{"timestamp":"2017-09-02T08:40:22.091Z","pid":7437,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-02T08:40:41.964Z","pid":7459,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-03T02:22:55.535Z"}
+{"timestamp":"2017-09-03T02:23:54.510Z","pid":894,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-03T02:24:08.236Z"}
+{"timestamp":"2017-09-03T02:24:57.753Z","pid":940,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T04:54:25.660Z","pid":2434,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T04:54:46.647Z","pid":2466,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T04:54:57.978Z","pid":2498,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T04:58:40.358Z","pid":2550,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T04:58:57.232Z","pid":2572,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T04:59:36.656Z","pid":2605,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T04:59:56.110Z","pid":2632,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:00:11.291Z","pid":2658,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:00:21.147Z","pid":2683,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:00:31.063Z","pid":2706,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:00:40.638Z","pid":2732,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:00:48.573Z","pid":2757,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:00:57.401Z","pid":2781,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:38:54.166Z","pid":3752,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:42:28.983Z","pid":3912,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:43:17.948Z","pid":4012,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:44:06.182Z","pid":4050,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T05:44:20.503Z","pid":4087,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T06:23:27.523Z","pid":6483,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T06:23:59.722Z","pid":6539,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T06:24:16.634Z","pid":6593,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T06:24:22.413Z","pid":6617,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-03T06:24:24.631Z"}
+{"timestamp":"2017-09-03T06:25:25.513Z","pid":6652,"level":"info","message":"App runs on port 8080"}
+{"level":"info","message":"New Database created successfully.\nDatabase Name: saravanastores","timestamp":"2017-09-03T06:25:27.135Z"}
+{"timestamp":"2017-09-03T06:37:07.752Z","pid":7096,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T06:37:45.097Z","pid":7222,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T06:38:38.439Z","pid":7336,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T06:39:35.201Z","pid":7537,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T06:40:11.709Z","pid":7634,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T06:46:50.008Z","pid":7727,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T06:47:05.150Z","pid":7787,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T08:21:17.004Z","pid":8387,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T09:53:11.357Z","pid":9943,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T09:53:56.184Z","pid":10011,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:02:38.246Z","pid":10122,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:03:00.051Z","pid":10153,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:04:17.651Z","pid":10229,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:08:43.311Z","pid":10488,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:09:04.551Z","pid":10615,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:10:04.743Z","pid":10716,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:10:19.952Z","pid":10758,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:12:42.698Z","pid":11027,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:16:22.143Z","pid":11342,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:17:15.859Z","pid":11419,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:22:26.571Z","pid":11489,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:23:32.962Z","pid":11681,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:28:11.755Z","pid":11934,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:32:55.435Z","pid":12049,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:33:48.246Z","pid":12091,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T10:35:58.200Z","pid":12319,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-03T11:26:07.198Z","pid":14141,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:11:20.754Z","pid":3645,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/create","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2017-09-09T08:11:32.638Z"}
+{"timestamp":"2017-09-09T08:12:35.858Z","pid":3755,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:12:55.107Z","pid":3808,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:13:19.137Z","pid":3879,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:18:21.701Z","pid":4141,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:18:39.311Z","pid":4180,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:29:23.674Z","pid":4247,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:29:58.790Z","pid":4273,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:33:31.916Z","pid":4627,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:37:59.958Z","pid":4669,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:40:18.378Z","pid":4940,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T08:44:02.972Z","pid":5025,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T09:01:39.866Z","pid":5887,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T09:02:17.513Z","pid":5995,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T09:02:24.564Z","pid":6024,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:06:11.541Z","pid":10508,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:06:49.186Z","pid":10557,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:09:42.709Z","pid":10920,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:10:48.087Z","pid":11019,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:12:43.145Z","pid":11216,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:13:17.267Z","pid":11275,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:24:58.556Z","pid":11445,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:26:42.550Z","pid":11516,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:27:15.881Z","pid":11638,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:27:47.134Z","pid":11685,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:27:51.722Z","pid":11732,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:28:08.504Z","pid":11771,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/create","errorMessage":"Error while getting Tenant DB Connection!","technicalError":"There is no DB for given tenant! Tenant is: http://localhost:8080","level":"error","message":"","timestamp":"2017-09-09T11:28:10.192Z"}
+{"timestamp":"2017-09-09T11:28:34.978Z","pid":11803,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:28:45.423Z","pid":11827,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/create","errorMessage":"Error while creating Questions!","technicalError":{"errors":{"rows.0._id":{"message":"Cast to ObjectID failed for value \"row1\" at path \"_id\"","name":"CastError","stringValue":"\"row1\"","kind":"ObjectID","value":"row1","path":"_id","reason":{"message":"Cast to ObjectId failed for value \"row1\" at path \"_id\"","name":"CastError","stringValue":"\"row1\"","kind":"ObjectId","value":"row1","path":"_id"}},"rows.1._id":{"message":"Cast to ObjectID failed for value \"row2\" at path \"_id\"","name":"CastError","stringValue":"\"row2\"","kind":"ObjectID","value":"row2","path":"_id","reason":{"message":"Cast to ObjectId failed for value \"row2\" at path \"_id\"","name":"CastError","stringValue":"\"row2\"","kind":"ObjectId","value":"row2","path":"_id"}},"rows.2._id":{"message":"Cast to ObjectID failed for value \"row3\" at path \"_id\"","name":"CastError","stringValue":"\"row3\"","kind":"ObjectID","value":"row3","path":"_id","reason":{"message":"Cast to ObjectId failed for value \"row3\" at path \"_id\"","name":"CastError","stringValue":"\"row3\"","kind":"ObjectId","value":"row3","path":"_id"}}},"_message":"Question validation failed","message":"Question validation failed: rows.0._id: Cast to ObjectID failed for value \"row1\" at path \"_id\", rows.1._id: Cast to ObjectID failed for value \"row2\" at path \"_id\", rows.2._id: Cast to ObjectID failed for value \"row3\" at path \"_id\"","name":"ValidationError"},"level":"error","message":"","timestamp":"2017-09-09T11:29:09.453Z"}
+{"timestamp":"2017-09-09T11:30:04.846Z","pid":11891,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:30:13.779Z","pid":11916,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/create","errorMessage":"Error while creating Questions!","technicalError":{"errors":{"rows.0._id":{"message":"Cast to ObjectID failed for value \"row1\" at path \"_id\"","name":"CastError","stringValue":"\"row1\"","kind":"ObjectID","value":"row1","path":"_id","reason":{"message":"Cast to ObjectId failed for value \"row1\" at path \"_id\"","name":"CastError","stringValue":"\"row1\"","kind":"ObjectId","value":"row1","path":"_id"}},"rows.1._id":{"message":"Cast to ObjectID failed for value \"row2\" at path \"_id\"","name":"CastError","stringValue":"\"row2\"","kind":"ObjectID","value":"row2","path":"_id","reason":{"message":"Cast to ObjectId failed for value \"row2\" at path \"_id\"","name":"CastError","stringValue":"\"row2\"","kind":"ObjectId","value":"row2","path":"_id"}},"rows.2._id":{"message":"Cast to ObjectID failed for value \"row3\" at path \"_id\"","name":"CastError","stringValue":"\"row3\"","kind":"ObjectID","value":"row3","path":"_id","reason":{"message":"Cast to ObjectId failed for value \"row3\" at path \"_id\"","name":"CastError","stringValue":"\"row3\"","kind":"ObjectId","value":"row3","path":"_id"}}},"_message":"Question validation failed","message":"Question validation failed: rows.0._id: Cast to ObjectID failed for value \"row1\" at path \"_id\", rows.1._id: Cast to ObjectID failed for value \"row2\" at path \"_id\", rows.2._id: Cast to ObjectID failed for value \"row3\" at path \"_id\"","name":"ValidationError"},"level":"error","message":"","timestamp":"2017-09-09T11:30:16.508Z"}
+{"timestamp":"2017-09-09T11:31:06.531Z","pid":12020,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/create","errorMessage":"Error while creating Questions!","technicalError":{"errors":{"rows.0._id":{"message":"Cast to ObjectID failed for value \"row1\" at path \"_id\"","name":"CastError","stringValue":"\"row1\"","kind":"ObjectID","value":"row1","path":"_id","reason":{"message":"Cast to ObjectId failed for value \"row1\" at path \"_id\"","name":"CastError","stringValue":"\"row1\"","kind":"ObjectId","value":"row1","path":"_id"}},"rows.1._id":{"message":"Cast to ObjectID failed for value \"row2\" at path \"_id\"","name":"CastError","stringValue":"\"row2\"","kind":"ObjectID","value":"row2","path":"_id","reason":{"message":"Cast to ObjectId failed for value \"row2\" at path \"_id\"","name":"CastError","stringValue":"\"row2\"","kind":"ObjectId","value":"row2","path":"_id"}},"rows.2._id":{"message":"Cast to ObjectID failed for value \"row3\" at path \"_id\"","name":"CastError","stringValue":"\"row3\"","kind":"ObjectID","value":"row3","path":"_id","reason":{"message":"Cast to ObjectId failed for value \"row3\" at path \"_id\"","name":"CastError","stringValue":"\"row3\"","kind":"ObjectId","value":"row3","path":"_id"}}},"_message":"Question validation failed","message":"Question validation failed: rows.0._id: Cast to ObjectID failed for value \"row1\" at path \"_id\", rows.1._id: Cast to ObjectID failed for value \"row2\" at path \"_id\", rows.2._id: Cast to ObjectID failed for value \"row3\" at path \"_id\"","name":"ValidationError"},"level":"error","message":"","timestamp":"2017-09-09T11:31:10.561Z"}
+{"timestamp":"2017-09-09T11:34:15.786Z","pid":12126,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:34:56.680Z","pid":12166,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:36:11.011Z","pid":12226,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:37:32.566Z","pid":12266,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:38:57.800Z","pid":12317,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:40:42.374Z","pid":12461,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:41:55.882Z","pid":12530,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-09T11:44:03.251Z","pid":12599,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T04:07:42.172Z","pid":2772,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T04:11:56.240Z","pid":2874,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T04:14:39.069Z","pid":2958,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T04:36:00.207Z","pid":3338,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T04:36:19.627Z","pid":3372,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T04:37:05.845Z","pid":3481,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T04:37:26.070Z","pid":3546,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T04:38:23.570Z","pid":3608,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T06:43:59.874Z","pid":4447,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T06:52:09.577Z","pid":4499,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T07:07:19.399Z","pid":4890,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T07:29:05.833Z","pid":5066,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T07:30:17.624Z","pid":5254,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T07:35:09.537Z","pid":5305,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T07:35:28.704Z","pid":5337,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T07:43:33.693Z","pid":5465,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T07:43:59.716Z","pid":5503,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T07:56:59.384Z","pid":5601,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T07:57:46.336Z","pid":5668,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T08:04:40.098Z","pid":5779,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T08:04:56.531Z","pid":5826,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/getdetail/59b3d3bdc7bac030f2c0b3dd","errorMessage":"Error while getting details of Survey!","technicalError":{"message":"Schema hasn't been registered for model \"Company\".\nUse mongoose.model(name, schema)","name":"MissingSchemaError"},"level":"error","message":"","timestamp":"2017-09-10T08:04:57.351Z"}
+{"timestamp":"2017-09-10T08:06:15.340Z","pid":5953,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/getdetail/59b3d3bdc7bac030f2c0b3dd","errorMessage":"Error while getting details of Survey!","technicalError":{"message":"Schema hasn't been registered for model \"questionType\".\nUse mongoose.model(name, schema)","name":"MissingSchemaError"},"level":"error","message":"","timestamp":"2017-09-10T08:06:15.804Z"}
+{"url":"/survey/getdetail/59b3d3bdc7bac030f2c0b3dd","errorMessage":"Error while getting details of Survey!","technicalError":{"message":"Schema hasn't been registered for model \"questionType\".\nUse mongoose.model(name, schema)","name":"MissingSchemaError"},"level":"error","message":"","timestamp":"2017-09-10T08:06:17.765Z"}
+{"timestamp":"2017-09-10T08:08:55.385Z","pid":6108,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/getdetail/59b3d3bdc7bac030f2c0b3dd","errorMessage":"Error while getting details of Survey!","technicalError":{"message":"Schema hasn't been registered for model \"questionType\".\nUse mongoose.model(name, schema)","name":"MissingSchemaError"},"level":"error","message":"","timestamp":"2017-09-10T08:08:58.728Z"}
+{"timestamp":"2017-09-10T08:14:56.226Z","pid":6224,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T08:15:54.398Z","pid":6296,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/getdetail/59b3d3bdc7bac030f2c0b3dd","errorMessage":"Error while getting details of Survey!","technicalError":{"message":"Schema hasn't been registered for model \"questionType\".\nUse mongoose.model(name, schema)","name":"MissingSchemaError"},"level":"error","message":"","timestamp":"2017-09-10T08:15:55.386Z"}
+{"timestamp":"2017-09-10T08:30:39.570Z","pid":6378,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/getdetail/59b3d3bdc7bac030f2c0b3dd","errorMessage":"Error while getting details of Survey!","technicalError":{"message":"Schema hasn't been registered for model \"questionType\".\nUse mongoose.model(name, schema)","name":"MissingSchemaError"},"level":"error","message":"","timestamp":"2017-09-10T08:30:40.057Z"}
+{"timestamp":"2017-09-10T08:32:02.807Z","pid":6438,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/getdetail/59b3d3bdc7bac030f2c0b3dd","errorMessage":"Error while getting details of Survey!","technicalError":{"message":"Schema hasn't been registered for model \"company\".\nUse mongoose.model(name, schema)","name":"MissingSchemaError"},"level":"error","message":"","timestamp":"2017-09-10T08:32:03.382Z"}
+{"timestamp":"2017-09-10T08:35:39.279Z","pid":6471,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/getdetail/59b3d3bdc7bac030f2c0b3dd","errorMessage":"Error while getting details of Survey!","technicalError":{"message":"Schema hasn't been registered for model \"Company\".\nUse mongoose.model(name, schema)","name":"MissingSchemaError"},"level":"error","message":"","timestamp":"2017-09-10T08:35:39.590Z"}
+{"timestamp":"2017-09-10T08:46:25.645Z","pid":6674,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T08:47:28.076Z","pid":6724,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T08:48:23.591Z","pid":6781,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T09:02:48.916Z","pid":6889,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T09:03:48.960Z","pid":7011,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T09:48:47.610Z","pid":8267,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T09:51:41.738Z","pid":8327,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T09:59:43.364Z","pid":8497,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T10:00:06.130Z","pid":8570,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T10:01:44.978Z","pid":8664,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T10:10:06.987Z","pid":9080,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T10:21:11.231Z","pid":9472,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T10:28:38.137Z","pid":10036,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T10:29:52.422Z","pid":10124,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T10:30:13.295Z","pid":10149,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T11:43:43.476Z","pid":10760,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T11:45:04.636Z","pid":10827,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T11:49:49.445Z","pid":10881,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T11:58:28.513Z","pid":10962,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:06:17.579Z","pid":11350,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:07:31.975Z","pid":11412,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:07:47.201Z","pid":11485,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:12:38.509Z","pid":11588,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:17:00.394Z","pid":11626,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:25:45.259Z","pid":11725,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:26:23.992Z","pid":11806,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:27:48.466Z","pid":11892,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:33:25.401Z","pid":12150,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:37:42.467Z","pid":12271,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:40:04.709Z","pid":12579,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:43:27.972Z","pid":12699,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/getdetail/59b5311f2830612f769557fa","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2017-09-10T12:43:42.128Z"}
+{"timestamp":"2017-09-10T12:44:04.746Z","pid":12731,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:45:12.228Z","pid":12818,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:46:37.837Z","pid":12859,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:47:22.715Z","pid":12900,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T12:50:58.224Z","pid":13012,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/update","errorMessage":"Invalid SurveyUid","technicalError":null,"level":"error","message":"","timestamp":"2017-09-10T12:56:25.895Z"}
+{"timestamp":"2017-09-10T13:12:27.085Z","pid":13622,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:13:20.999Z","pid":13730,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:13:28.014Z","pid":13770,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:13:35.854Z","pid":13817,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:17:14.658Z","pid":13881,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:18:48.186Z","pid":13952,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:19:05.076Z","pid":13989,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:19:35.536Z","pid":14045,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:21:44.755Z","pid":14159,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:22:19.520Z","pid":14225,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:22:54.628Z","pid":14262,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:25:35.750Z","pid":14357,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:26:08.520Z","pid":14430,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:30:05.824Z","pid":14516,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/update","errorMessage":"Invalid SurveyUid","technicalError":null,"level":"error","message":"","timestamp":"2017-09-10T13:31:38.571Z"}
+{"timestamp":"2017-09-10T13:33:21.885Z","pid":14650,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:33:58.642Z","pid":14736,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:34:14.149Z","pid":14774,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:36:57.508Z","pid":14835,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T13:38:45.961Z","pid":14913,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/update","errorMessage":"Invalid SurveyUid","technicalError":null,"level":"error","message":"","timestamp":"2017-09-10T13:40:08.453Z"}
+{"timestamp":"2017-09-10T13:41:29.773Z","pid":15070,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/update","errorMessage":"Invalid SurveyUid","technicalError":null,"level":"error","message":"","timestamp":"2017-09-10T13:42:06.955Z"}
+{"timestamp":"2017-09-10T13:53:17.902Z","pid":15905,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/create","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2017-09-10T13:54:15.365Z"}
+{"url":"/survey/getdetail/59b5440e0dbe793e21f8e949","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2017-09-10T13:54:46.199Z"}
+{"timestamp":"2017-09-10T14:01:01.063Z","pid":16923,"level":"info","message":"App runs on port 8080"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2017-09-10T14:01:39.643Z"}
+{"timestamp":"2017-09-10T14:08:01.810Z","pid":17384,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T14:11:40.028Z","pid":17693,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T14:13:18.995Z","pid":17829,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T14:13:50.192Z","pid":17900,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T14:14:40.200Z","pid":17958,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/list","errorMessage":"Error while finding Survey!","technicalError":{"name":"MongoError","message":"Can't canonicalize query: BadValue bad skip value in query","$err":"Can't canonicalize query: BadValue bad skip value in query","code":17287},"level":"error","message":"","timestamp":"2017-09-10T14:14:44.631Z"}
+{"timestamp":"2017-09-10T14:15:02.604Z","pid":17994,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/list","errorMessage":"Error while finding Survey!","technicalError":{"name":"MongoError","message":"Can't canonicalize query: BadValue bad skip value in query","$err":"Can't canonicalize query: BadValue bad skip value in query","code":17287},"level":"error","message":"","timestamp":"2017-09-10T14:15:03.088Z"}
+{"url":"/survey/list","errorMessage":"Error while finding Survey!","technicalError":{"name":"MongoError","message":"Can't canonicalize query: BadValue bad skip value in query","$err":"Can't canonicalize query: BadValue bad skip value in query","code":17287},"level":"error","message":"","timestamp":"2017-09-10T14:15:04.240Z"}
+{"url":"/survey/list","errorMessage":"Error while finding Survey!","technicalError":{"name":"MongoError","message":"Can't canonicalize query: BadValue bad skip value in query","$err":"Can't canonicalize query: BadValue bad skip value in query","code":17287},"level":"error","message":"","timestamp":"2017-09-10T14:15:05.301Z"}
+{"timestamp":"2017-09-10T14:15:22.830Z","pid":18068,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/list","errorMessage":"Error while finding Survey!","technicalError":{"name":"MongoError","message":"Can't canonicalize query: BadValue bad skip value in query","$err":"Can't canonicalize query: BadValue bad skip value in query","code":17287},"level":"error","message":"","timestamp":"2017-09-10T14:15:23.547Z"}
+{"timestamp":"2017-09-10T14:15:56.171Z","pid":18098,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T14:16:18.434Z","pid":18133,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/list","errorMessage":"Error while finding Survey!","technicalError":{"name":"MongoError","message":"Can't canonicalize query: BadValue bad skip value in query","$err":"Can't canonicalize query: BadValue bad skip value in query","code":17287},"level":"error","message":"","timestamp":"2017-09-10T14:16:34.687Z"}
+{"url":"/survey/list","errorMessage":"Error while finding Survey!","technicalError":{"name":"MongoError","message":"Can't canonicalize query: BadValue bad skip value in query","$err":"Can't canonicalize query: BadValue bad skip value in query","code":17287},"level":"error","message":"","timestamp":"2017-09-10T14:16:48.373Z"}
+{"url":"/survey/getdetail/59b549b78ab80646d5f8dcae","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2017-09-10T14:19:00.098Z"}
+{"timestamp":"2017-09-10T14:22:51.986Z","pid":18970,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/getdetail/59b54add64be4b4a1a770228","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2017-09-10T14:23:43.054Z"}
+{"timestamp":"2017-09-10T14:27:28.566Z","pid":19325,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T14:29:08.623Z","pid":19576,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-10T14:33:13.113Z","pid":19872,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-11T01:07:25.518Z","pid":2373,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-11T01:10:52.900Z","pid":2818,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-11T01:11:58.767Z","pid":2964,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-11T01:12:44.793Z","pid":3019,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-11T01:13:31.609Z","pid":3057,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-11T01:14:47.513Z","pid":3227,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-11T01:15:05.678Z","pid":3274,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-12T14:36:55.078Z","pid":4581,"level":"info","message":"App runs on port 8080"}
+{"url":"/survey/list","errorMessage":"Error while finding Survey!","technicalError":{"name":"MongoError","message":"Can't canonicalize query: BadValue bad skip value in query","$err":"Can't canonicalize query: BadValue bad skip value in query","code":17287},"level":"error","message":"","timestamp":"2017-09-12T14:36:58.385Z"}
+{"timestamp":"2017-09-17T05:03:46.300Z","pid":7414,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-17T05:06:03.096Z","pid":7468,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-17T05:09:50.940Z","pid":7624,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-17T05:12:40.955Z","pid":7704,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-17T05:16:02.803Z","pid":8104,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-17T05:16:42.848Z","pid":8158,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-17T05:17:19.897Z","pid":8269,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-17T05:21:17.910Z","pid":8548,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2017-09-17T05:32:19.635Z","pid":8900,"level":"info","message":"App runs on port 8080"}
+{"timestamp":"2018-01-14T03:01:33.950Z","pid":8931,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T03:03:06.219Z","pid":9264,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T03:08:08.284Z","pid":10152,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T03:14:03.087Z","pid":10590,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:39:39.741Z","pid":11350,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:40:40.744Z","pid":11467,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:41:53.561Z","pid":11513,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:42:05.703Z","pid":11571,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:42:37.745Z","pid":11659,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:42:42.574Z","pid":11689,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:49:49.562Z","pid":11861,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:50:06.163Z","pid":11912,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:50:25.076Z","pid":11957,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:50:26.977Z","pid":11973,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:55:31.869Z","pid":12114,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:56:57.810Z","pid":12312,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:57:38.123Z","pid":12478,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:58:33.812Z","pid":12661,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:58:55.939Z","pid":12758,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T04:59:10.181Z","pid":12785,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:00:51.541Z","pid":13063,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:03:52.858Z","pid":13541,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:04:04.176Z","pid":13590,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:08:18.596Z","pid":13725,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:12:09.998Z","pid":14290,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:12:27.747Z","pid":14369,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:12:38.255Z","pid":14392,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:12:46.248Z","pid":14418,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:13:03.243Z","pid":14471,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:13:20.267Z","pid":14512,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:13:36.566Z","pid":14553,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:13:39.687Z","pid":14574,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:14:46.230Z","pid":14625,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:19:59.552Z","pid":14872,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:20:13.337Z","pid":14917,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:20:25.805Z","pid":14952,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:20:37.719Z","pid":14983,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:31:00.791Z","pid":15354,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:32:20.843Z","pid":15639,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:32:23.519Z","pid":15674,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:32:39.698Z","pid":15708,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:33:40.894Z","pid":15807,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T05:59:58.054Z","pid":17327,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:06:07.479Z","pid":17714,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:08:37.634Z","pid":18024,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:09:24.787Z","pid":18212,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:09:34.171Z","pid":18251,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:09:49.637Z","pid":18329,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:09:53.193Z","pid":18476,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:10:24.686Z","pid":18610,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:16:46.737Z","pid":19070,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:17:15.406Z","pid":19120,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:17:59.505Z","pid":19178,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:19:10.632Z","pid":19226,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:19:35.957Z","pid":19264,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:22:11.859Z","pid":19347,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:25:20.343Z","pid":19480,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:26:06.231Z","pid":19567,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:26:47.744Z","pid":19620,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:28:33.241Z","pid":19744,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:34:21.634Z","pid":19899,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:41:32.974Z","pid":20118,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:46:01.518Z","pid":20624,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:46:58.488Z","pid":20742,"level":"info","message":"App runs on port 8000"}
+{"url":"/item/create","errorMessage":"Error while creating Item!","technicalError":{"errors":{"hotelUid":{"message":"Cast to ObjectID failed for value \"{ _id: 'b', name: '' }\" at path \"hotelUid\"","name":"CastError","stringValue":"\"{ _id: 'b', name: '' }\"","kind":"ObjectID","value":{"_id":"b","name":""},"path":"hotelUid","reason":{"message":"Cast to ObjectId failed for value \"{ _id: 'b', name: '' }\" at path \"hotelUid\"","name":"CastError","stringValue":"\"{ _id: 'b', name: '' }\"","kind":"ObjectId","value":{"$ref":"$[\"technicalError\"][\"errors\"][\"hotelUid\"][\"value\"]"},"path":"hotelUid"}}},"_message":"Item validation failed","message":"Item validation failed: hotelUid: Cast to ObjectID failed for value \"{ _id: 'b', name: '' }\" at path \"hotelUid\"","name":"ValidationError"},"level":"error","message":"","timestamp":"2018-01-14T06:47:35.743Z"}
+{"url":"/item/create","errorMessage":"Error while creating Item!","technicalError":{"errors":{"hotelUid":{"message":"Cast to ObjectID failed for value \"{ _id: 'sdfsdfg', name: '' }\" at path \"hotelUid\"","name":"CastError","stringValue":"\"{ _id: 'sdfsdfg', name: '' }\"","kind":"ObjectID","value":{"_id":"sdfsdfg","name":""},"path":"hotelUid","reason":{"message":"Cast to ObjectId failed for value \"{ _id: 'sdfsdfg', name: '' }\" at path \"hotelUid\"","name":"CastError","stringValue":"\"{ _id: 'sdfsdfg', name: '' }\"","kind":"ObjectId","value":{"$ref":"$[\"technicalError\"][\"errors\"][\"hotelUid\"][\"value\"]"},"path":"hotelUid"}}},"_message":"Item validation failed","message":"Item validation failed: hotelUid: Cast to ObjectID failed for value \"{ _id: 'sdfsdfg', name: '' }\" at path \"hotelUid\"","name":"ValidationError"},"level":"error","message":"","timestamp":"2018-01-14T06:49:20.874Z"}
+{"timestamp":"2018-01-14T06:51:42.761Z","pid":21009,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:52:34.481Z","pid":21130,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:54:01.463Z","pid":21217,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:54:48.265Z","pid":21251,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:56:37.892Z","pid":21313,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:56:59.967Z","pid":21375,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:57:21.364Z","pid":21470,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:58:13.604Z","pid":21517,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:58:20.231Z","pid":21558,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T06:59:30.815Z","pid":21616,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:00:14.624Z","pid":21654,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:00:40.053Z","pid":21691,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:03:59.971Z","pid":21836,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:04:37.212Z","pid":21874,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:07:42.463Z","pid":22064,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:09:06.317Z","pid":22248,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:10:53.384Z","pid":22331,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:11:15.326Z","pid":22362,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:21:04.622Z","pid":22548,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:22:28.984Z","pid":22606,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:22:43.257Z","pid":22632,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:23:29.220Z","pid":22741,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:23:59.027Z","pid":22834,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:24:18.344Z","pid":22864,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:24:59.534Z","pid":22959,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:25:43.334Z","pid":23027,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:26:28.600Z","pid":23064,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:28:06.909Z","pid":23175,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:28:15.073Z","pid":23202,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:31:25.343Z","pid":23391,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:33:01.794Z","pid":23489,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:33:16.140Z","pid":23561,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:34:51.146Z","pid":23670,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:35:42.023Z","pid":23709,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:44:06.851Z","pid":24129,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:48:14.038Z","pid":24402,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:48:46.542Z","pid":24440,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:49:02.069Z","pid":24477,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:49:37.499Z","pid":24518,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:49:40.423Z","pid":24549,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:49:47.033Z","pid":24590,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:49:51.365Z","pid":24623,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T07:50:28.006Z","pid":24659,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T08:08:32.466Z","pid":25471,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T08:09:28.894Z","pid":25567,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T09:51:28.306Z","pid":26545,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T09:51:43.646Z","pid":26569,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T09:51:56.123Z","pid":26593,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T09:52:35.396Z","pid":26627,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T09:52:56.193Z","pid":26652,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T09:55:01.012Z","pid":26700,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T09:55:05.879Z","pid":26726,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T09:56:54.107Z","pid":26969,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:01:05.955Z","pid":27150,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:01:16.116Z","pid":27183,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:01:40.661Z","pid":27221,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:03:18.174Z","pid":27373,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:05:28.836Z","pid":27569,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:31:10.942Z","pid":28828,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:31:34.992Z","pid":28883,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:32:32.574Z","pid":28936,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:33:06.886Z","pid":28974,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:33:08.982Z"}
+{"timestamp":"2018-01-14T10:33:23.306Z","pid":29021,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:33:25.337Z"}
+{"timestamp":"2018-01-14T10:34:03.551Z","pid":29086,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:34:43.356Z","pid":29162,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:35:02.122Z","pid":29223,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/js/cutomModal.js","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:35:21.459Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:35:21.636Z"}
+{"url":"/externalModules/js/cutomModal.js","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:35:21.728Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:35:35.712Z"}
+{"timestamp":"2018-01-14T10:35:51.412Z","pid":29300,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:35:53.247Z"}
+{"timestamp":"2018-01-14T10:36:18.430Z","pid":29338,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:36:23.856Z","pid":29363,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:36:25.584Z"}
+{"timestamp":"2018-01-14T10:36:45.980Z","pid":29394,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:36:47.248Z"}
+{"timestamp":"2018-01-14T10:37:15.278Z","pid":29426,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:37:15.896Z"}
+{"timestamp":"2018-01-14T10:38:51.912Z","pid":29525,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:39:11.764Z"}
+{"timestamp":"2018-01-14T10:41:00.862Z","pid":29680,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:41:24.311Z","pid":29751,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:41:33.090Z"}
+{"timestamp":"2018-01-14T10:42:36.328Z","pid":29865,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:42:36.638Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:42:38.801Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:42:39.955Z"}
+{"timestamp":"2018-01-14T10:43:02.581Z","pid":29952,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:43:03.470Z"}
+{"timestamp":"2018-01-14T10:43:42.187Z","pid":30014,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:43:42.594Z"}
+{"timestamp":"2018-01-14T10:44:23.882Z","pid":30049,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:44:53.242Z","pid":30075,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:44:54.893Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:46:31.601Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:49:14.423Z"}
+{"timestamp":"2018-01-14T10:50:45.338Z","pid":30322,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:50:54.404Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:52:43.930Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T10:54:22.242Z"}
+{"timestamp":"2018-01-14T10:56:13.430Z","pid":30563,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:57:04.898Z","pid":30711,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:57:08.209Z","pid":30745,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T10:57:11.603Z","pid":30777,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:00:46.225Z","pid":31244,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:04:52.797Z"}
+{"timestamp":"2018-01-14T11:07:59.567Z","pid":32016,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:11:08.468Z","pid":32484,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:11:50.674Z","pid":32532,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:15:02.225Z","pid":534,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:18:06.425Z","pid":641,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:20:05.083Z","pid":833,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:20:05.641Z"}
+{"timestamp":"2018-01-14T11:21:28.497Z","pid":890,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:21:30.366Z"}
+{"timestamp":"2018-01-14T11:22:04.299Z","pid":954,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:22:05.849Z"}
+{"timestamp":"2018-01-14T11:23:00.646Z","pid":1077,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:23:01.232Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:23:35.211Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:24:28.408Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:24:32.390Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:25:15.455Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:25:15.877Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:25:46.721Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:25:47.062Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:26:15.722Z"}
+{"timestamp":"2018-01-14T11:28:30.935Z","pid":1316,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:28:33.297Z"}
+{"timestamp":"2018-01-14T11:29:22.301Z","pid":1370,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:29:22.738Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:29:23.107Z"}
+{"timestamp":"2018-01-14T11:31:25.678Z","pid":1799,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:31:28.384Z","pid":1870,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:31:29.118Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:31:30.474Z"}
+{"timestamp":"2018-01-14T11:32:59.561Z","pid":1999,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:33:10.116Z","pid":2055,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:33:10.760Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:33:16.995Z"}
+{"timestamp":"2018-01-14T11:33:39.840Z","pid":2118,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:33:41.475Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:33:41.784Z"}
+{"timestamp":"2018-01-14T11:34:06.316Z","pid":2152,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:34:06.748Z"}
+{"timestamp":"2018-01-14T11:34:27.954Z","pid":2178,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:34:36.776Z"}
+{"timestamp":"2018-01-14T11:35:39.167Z","pid":2266,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:35:47.088Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:35:47.609Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:35:49.940Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:35:51.220Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:35:51.844Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:35:52.922Z"}
+{"timestamp":"2018-01-14T11:37:36.695Z","pid":2352,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:38:52.156Z","pid":2452,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:39:54.889Z","pid":2603,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:40:21.835Z","pid":2680,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:40:34.514Z","pid":2704,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:40:41.130Z","pid":2731,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:42:27.297Z","pid":2801,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:43:40.253Z"}
+{"timestamp":"2018-01-14T11:44:50.397Z","pid":3062,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T11:48:32.376Z","pid":3472,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:48:32.821Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:48:44.479Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:48:53.409Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:48:53.597Z"}
+{"timestamp":"2018-01-14T11:49:25.527Z","pid":3550,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:49:25.805Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:49:26.163Z"}
+{"timestamp":"2018-01-14T11:50:11.053Z","pid":3583,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:50:11.402Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:50:11.692Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:51:38.151Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:52:04.365Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:52:59.279Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:53:03.886Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:53:06.628Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:53:10.219Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:53:12.689Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:53:16.814Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:53:25.975Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:53:27.084Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:53:28.117Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T11:53:29.154Z"}
+{"timestamp":"2018-01-14T11:54:35.724Z","pid":3731,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:01:00.585Z","pid":4100,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:01:13.861Z","pid":4147,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:01:37.912Z","pid":4244,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:01:39.070Z"}
+{"timestamp":"2018-01-14T12:04:20.304Z","pid":4435,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:04:29.156Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:04:56.958Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:05:47.152Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:05:47.426Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:07:14.388Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:07:14.769Z"}
+{"timestamp":"2018-01-14T12:08:07.385Z","pid":4621,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:08:07.945Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:08:08.198Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:09:01.951Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:09:02.363Z"}
+{"timestamp":"2018-01-14T12:22:41.780Z","pid":4820,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:22:42.198Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:22:42.525Z"}
+{"timestamp":"2018-01-14T12:24:17.090Z","pid":4874,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:24:41.372Z","pid":4918,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:24:57.134Z","pid":4972,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:25:38.365Z","pid":5025,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:28:35.236Z","pid":5290,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:29:47.713Z","pid":5392,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:29:48.495Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:29:48.822Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:30:21.606Z"}
+{"timestamp":"2018-01-14T12:32:28.161Z","pid":5549,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:32:30.114Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:32:30.408Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:32:54.226Z"}
+{"timestamp":"2018-01-14T12:33:38.236Z","pid":5621,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:33:38.549Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:33:38.817Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:34:08.760Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:34:09.634Z"}
+{"timestamp":"2018-01-14T12:35:17.633Z","pid":5680,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:45:33.557Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:45:33.726Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:45:34.619Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:45:34.946Z"}
+{"timestamp":"2018-01-14T12:47:15.026Z","pid":5866,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:47:32.675Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:47:33.056Z"}
+{"timestamp":"2018-01-14T12:48:48.764Z","pid":6003,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:48:49.295Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:48:49.592Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:49:38.939Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:49:39.224Z"}
+{"timestamp":"2018-01-14T12:50:17.909Z","pid":6112,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:50:23.132Z","pid":6147,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:50:23.702Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:50:24.052Z"}
+{"timestamp":"2018-01-14T12:50:43.768Z","pid":6189,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:50:45.336Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:50:45.588Z"}
+{"timestamp":"2018-01-14T12:54:20.468Z","pid":6414,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:55:30.077Z","pid":6624,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T12:55:39.859Z","pid":6668,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:55:40.376Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:55:40.660Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:55:47.694Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:55:48.024Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:57:19.253Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:57:19.533Z"}
+{"timestamp":"2018-01-14T12:57:34.212Z","pid":6805,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:57:35.087Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:57:35.370Z"}
+{"timestamp":"2018-01-14T12:57:41.758Z","pid":6847,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:57:42.481Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T12:57:42.790Z"}
+{"timestamp":"2018-01-14T12:58:55.463Z","pid":6904,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:01:07.486Z","pid":7045,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:02:06.317Z","pid":7186,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:03:00.619Z","pid":7262,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:05:06.183Z","pid":7542,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:06:01.151Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:06:01.474Z"}
+{"timestamp":"2018-01-14T13:08:25.075Z","pid":7805,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:11:23.329Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:11:23.714Z"}
+{"timestamp":"2018-01-14T13:13:08.320Z","pid":7978,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:13:09.183Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:13:09.498Z"}
+{"timestamp":"2018-01-14T13:13:54.510Z","pid":8025,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:13:54.976Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:13:55.190Z"}
+{"timestamp":"2018-01-14T13:14:16.339Z","pid":8065,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:14:17.994Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:14:18.272Z"}
+{"timestamp":"2018-01-14T13:15:18.365Z","pid":8106,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:15:23.409Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:15:23.846Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:15:24.422Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:15:24.802Z"}
+{"timestamp":"2018-01-14T13:17:08.587Z","pid":8164,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:17:09.434Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:17:09.699Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:24:28.827Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:24:29.181Z"}
+{"timestamp":"2018-01-14T13:24:53.968Z","pid":8412,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:24:56.815Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:24:57.120Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:25:50.510Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:25:50.853Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:26:12.941Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:26:13.370Z"}
+{"timestamp":"2018-01-14T13:28:35.552Z","pid":8550,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:28:49.231Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:28:49.483Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:32:36.649Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:32:36.959Z"}
+{"timestamp":"2018-01-14T13:34:55.006Z","pid":8778,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:35:38.801Z","pid":8811,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:35:44.343Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:35:44.590Z"}
+{"timestamp":"2018-01-14T13:36:06.662Z","pid":8848,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:36:07.160Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:36:07.405Z"}
+{"timestamp":"2018-01-14T13:36:40.694Z","pid":8880,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:36:51.217Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:36:51.540Z"}
+{"timestamp":"2018-01-14T13:39:16.771Z","pid":9092,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:39:18.474Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:39:18.716Z"}
+{"timestamp":"2018-01-14T13:42:55.499Z","pid":9224,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:47:35.811Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:47:36.093Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:48:44.164Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:48:44.493Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:10.594Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:13.132Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:14.069Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:15.566Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:17.068Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:42.369Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:45.181Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:45.655Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:47.719Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:48.995Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:49.856Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:51.133Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:52.682Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:54.383Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:49:55.089Z"}
+{"timestamp":"2018-01-14T13:50:48.263Z","pid":9470,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:51:09.734Z","pid":9520,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:51:16.416Z","pid":9545,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:51:22.785Z","pid":9568,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:52:21.255Z","pid":9673,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:52:46.681Z","pid":9697,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:53:24.326Z","pid":9724,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:53:56.733Z","pid":9762,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:54:40.556Z","pid":9822,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:55:18.338Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:55:18.685Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:55:42.332Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:55:42.663Z"}
+{"timestamp":"2018-01-14T13:56:12.874Z","pid":9872,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:56:26.783Z","pid":9905,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:57:06.058Z","pid":9976,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:57:11.801Z","pid":9999,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:57:17.444Z","pid":10024,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:57:26.265Z","pid":10048,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T13:58:07.130Z","pid":10112,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:58:19.661Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:58:24.395Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:58:24.894Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:58:25.258Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:58:28.065Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:58:28.348Z"}
+{"timestamp":"2018-01-14T13:58:41.899Z","pid":10173,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:58:45.251Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:58:45.540Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:59:19.392Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T13:59:19.640Z"}
+{"timestamp":"2018-01-14T14:00:00.835Z","pid":10264,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:00:04.310Z","pid":10289,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:00:06.929Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:00:07.263Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:00:33.647Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:01:03.432Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:01:03.757Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:01:20.011Z"}
+{"timestamp":"2018-01-14T14:08:03.250Z","pid":10414,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:08:44.808Z","pid":10465,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:09:23.835Z","pid":10581,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:10:29.085Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:10:29.409Z"}
+{"timestamp":"2018-01-14T14:15:09.944Z","pid":10792,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:20:30.254Z","pid":10848,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:23:24.655Z","pid":10963,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:23:35.646Z","pid":10986,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:23:50.116Z","pid":11021,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:23:59.568Z","pid":11055,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:24:04.534Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:24:04.850Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:24:07.534Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:24:08.073Z"}
+{"timestamp":"2018-01-14T14:24:26.179Z","pid":11092,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:29:27.638Z","pid":11425,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:29:48.980Z","pid":11478,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:29:49.424Z"}
+{"timestamp":"2018-01-14T14:31:04.177Z","pid":11540,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:31:04.430Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:31:04.755Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:32:29.684Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:32:30.396Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:32:31.329Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:32:31.843Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:32:32.394Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:32:33.042Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T14:32:33.809Z"}
+{"timestamp":"2018-01-14T14:33:04.803Z","pid":11645,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:33:20.931Z","pid":11702,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:33:38.476Z","pid":11725,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:34:38.562Z","pid":11786,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T14:35:19.112Z","pid":11835,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:05:30.413Z","pid":12215,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:07:25.302Z","pid":12353,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:08:01.697Z","pid":12429,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:08:19.995Z","pid":12469,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:16:52.061Z","pid":12649,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:17:15.758Z","pid":12679,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:17:19.970Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:17:20.240Z"}
+{"timestamp":"2018-01-14T16:17:38.018Z","pid":12719,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:17:38.408Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:17:38.737Z"}
+{"timestamp":"2018-01-14T16:18:01.134Z","pid":12750,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:18:02.705Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:18:02.962Z"}
+{"timestamp":"2018-01-14T16:18:23.889Z","pid":12793,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:18:24.971Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:18:25.205Z"}
+{"timestamp":"2018-01-14T16:19:02.231Z","pid":12840,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:19:19.193Z","pid":12871,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:19:36.730Z","pid":12905,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:29:32.194Z","pid":13510,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:29:47.884Z","pid":13538,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:30:03.888Z","pid":13561,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:30:13.450Z","pid":13584,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:31:03.746Z","pid":13721,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:31:57.609Z","pid":13772,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:32:14.067Z","pid":13799,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:33:00.996Z","pid":13848,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:34:11.578Z","pid":14004,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:34:54.403Z","pid":14043,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:35:12.215Z","pid":14066,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:35:32.940Z","pid":14093,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:37:39.515Z","pid":14399,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:48:14.819Z","pid":15179,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:48:50.853Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:48:51.129Z"}
+{"url":"/payment/getPendings","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:49:09.853Z"}
+{"url":"/payment/getPendings","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:49:09.866Z"}
+{"timestamp":"2018-01-14T16:49:43.277Z","pid":15310,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:51:30.926Z","pid":15355,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:52:27.961Z","pid":15481,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:52:52.425Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:52:52.753Z"}
+{"timestamp":"2018-01-14T16:53:44.470Z","pid":15573,"level":"info","message":"App runs on port 8000"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:53:45.753Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:53:46.044Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:54:08.915Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:54:33.865Z"}
+{"timestamp":"2018-01-14T16:55:45.417Z","pid":15803,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:56:15.021Z","pid":15852,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:57:49.757Z","pid":15910,"level":"info","message":"App runs on port 8000"}
+{"timestamp":"2018-01-14T16:58:50.137Z","pid":15941,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:59:33.035Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T16:59:53.893Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:00:02.802Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:00:03.122Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:00:29.767Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:00:58.273Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:02:38.180Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:02:38.486Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:03:58.110Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:03:58.303Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:04:53.467Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:04:53.842Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:05:19.802Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:05:21.307Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:05:24.250Z"}
+{"timestamp":"2018-01-14T17:05:43.156Z","pid":16271,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:05:48.419Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:05:50.296Z"}
+{"timestamp":"2018-01-14T17:05:59.786Z","pid":16314,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:06:00.271Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:06:05.437Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:06:34.532Z"}

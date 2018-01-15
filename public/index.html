@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>Lunch App</title>
+    <link rel="stylesheet" href="externalModules/css/bootstrap.css">
+    <link rel="stylesheet" href="externalModules/css/customModal.css">
+</head>
+
+<body ng-app="lunchApp">
+    <div ng-controller="InitController">
+        <button ng-click="goToState('userMaster')" class="btn btn-primary">User Master</button>
+        <button ng-click="goToState('hotelMaster')" class="btn btn-primary">Hotel Master</button>
+        <button ng-click="goToState('itemMaster')" class="btn btn-primary">Item Master</button>
+        <button ng-click="goToState('eatHistory')" class="btn btn-primary">Eat History</button>
+        <button ng-click="goToState('payment')" class="btn btn-primary">Payments</button>
+    </div>
+    <hr>
+    <div ui-view></div>
+    <script src="externalModules/js/jquery-3.2.1.js"></script>
+    <script src="externalModules/js/angular-1.6.6.js"></script>
+    <script src="externalModules/js/uiRouter-0.4.2.js"></script>
+    <script src="externalModules/js/typeahead-4.0.2.js"></script>
+    <script src="externalModules/js/underscore-1.8.3.js"></script>
+    <script src="externalModules/js/customModal.js"></script>
+    <script src="app.js"></script>
+    <script src="directives.js"></script>
+    <script src="userMaster/userMaster.js"></script>
+    <script src="hotelMaster/hotelMaster.js"></script>
+    <script src="itemMaster/itemMaster.js"></script>
+    <script src="eatHistory/eatHistory.js"></script>
+    <script src="payment/payment.js"></script>
+</body>
+
+</html>
