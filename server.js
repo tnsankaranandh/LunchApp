@@ -20,7 +20,10 @@ app.use(bodyParser.json({ type: 'application/vnd.api+json' }));
 app.use(methodOverride('X-HTTP-Method-Override'));
 app.use(compress());
 
-mongoose.connect('mongodb://127.0.0.1/lunchdb', {}, function (dbError) { if (!!dbError) { console.log(dbError); } });
+
+var dbUrl = 'mongodb://lunch:lunch@ds255797.mlab.com:55797/lunchdb';
+var localDBUrl = 'mongodb://127.0.0.1/lunchdb';
+mongoose.connect(dbUrl, {}, function (dbError) { if (!!dbError) { console.log(dbError); } });
 
 var logDirectory = __dirname + '/log'
 

@@ -853,3 +853,9 @@
 {"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:06:00.271Z"}
 {"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:06:05.437Z"}
 {"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-14T17:06:34.532Z"}
+{"timestamp":"2018-01-15T03:12:31.346Z","pid":6185,"level":"info","message":"App runs on port 5000"}
+{"timestamp":"2018-01-15T03:46:27.594Z","pid":7116,"level":"info","message":"App runs on port 8000"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-15T03:47:51.543Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-15T03:47:51.554Z"}
+{"url":"/externalModules/css/bootstrap.css.map","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-15T03:47:54.674Z"}
+{"url":"/favicon.ico","errorMessage":"Invalid API","level":"error","message":"","timestamp":"2018-01-15T03:47:57.629Z"}
