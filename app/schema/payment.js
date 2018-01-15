@@ -3,7 +3,7 @@ var Schema = mongoose.Schema;
 
 var PaymentsSchema = new Schema({
     payDate: Date,
-    fromUseUid: {
+    fromUserUid: {
         type: Schema.ObjectId,
         ref: 'User'
     },

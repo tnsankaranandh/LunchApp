@@ -15,7 +15,7 @@
             <tr ng-repeat="p in vm.payments">
                 <td>
                     <span ng-if="!p.isInEditMode">{{p.payDate | date}}</span>
-                    <input class="form-control" type="date" ng-if="!!p.isInEditMode" ng-init="p.payDate = new Date(p.payDate);" ng-model="p.payDate" />
+                    <input class="form-control" type="date" ng-if="!!p.isInEditMode" ng-init="vm.datifyPayDate($index);" ng-model="p.payDate" />
                 </td>
                 <td>
                     <span ng-if="!p.isInEditMode">{{p.fromUserUid.name}}</span>

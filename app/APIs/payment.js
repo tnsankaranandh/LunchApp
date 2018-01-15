@@ -11,7 +11,7 @@ exports.create = function (req, res) {
     var newPay = new PaymentTransaction();
     newPay.payDate = req.body.payDate;
     newPay.fromUserUid = req.body.fromUserUid;
-    newPay.toUseUid = req.body.toUseUid;
+    newPay.toUserUid = req.body.toUserUid;
     newPay.amount = req.body.amount;
     newPay.save(function (error) {
         if (!!error) {
@@ -63,6 +63,16 @@ exports.getList = function (req, res) {
             .limit(limit);
     }
     query
+        .populate({
+            path: 'fromUserUid',
+            model: 'User',
+            select: 'name'
+        })
+        .populate({
+            path: 'toUserUid',
+            model: 'User',
+            select: 'name'
+        })
         .lean()
         .exec(function (error, paymentDocs) {
             if (!!error) {

@@ -138,4 +138,8 @@ app.controller('PaymentController', function ($http, $q, $timeout, CustomModalSe
                 alert('Error while getting Pending Payments.');
             });
     };
+
+    vm.datifyPayDate = function (index) {
+        vm.payments[index].payDate = new Date(vm.payments[index].payDate);
+    };
 });
