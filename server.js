@@ -21,9 +21,13 @@ app.use(methodOverride('X-HTTP-Method-Override'));
 app.use(compress());
 
 
-var dbUrl = 'mongodb://lunch:lunch@ds255797.mlab.com:55797/lunchdb';
+var hostedDbUrl = 'mongodb://lunch:lunch@ds255797.mlab.com:55797/lunchdb';
 var localDBUrl = 'mongodb://127.0.0.1/lunchdb';
-mongoose.connect(dbUrl, {}, function (dbError) { if (!!dbError) { console.log(dbError); } });
+mongoose.connect(hostedDbUrl, {}, function (dbError) {
+	if (!!dbError) { console.log(dbError); }
+	console.log(hostedDbUrl);
+	console.log(mongoose);
+});
 
 var logDirectory = __dirname + '/log'
 
