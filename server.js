@@ -25,15 +25,6 @@ var hostedDbUrl = 'mongodb://lunch:lunch@ds255797.mlab.com:55797/lunchdb';
 var localDBUrl = 'mongodb://127.0.0.1/lunchdb';
 mongoose.connect(hostedDbUrl, {}, function (dbError) {
 	if (!!dbError) { console.log(dbError); }
-	console.log(Object.keys(mongoose.models.User.collection));
-	console.log('collectionName');
-	console.log(mongoose.models.User.collection.collectionName);
-	console.log(hostedDbUrl);
-	require('./app/schema/user')
-        .find({}, function(e, d){
-        	console.log(e);
-        	console.log(d);
-        });
 });
 
 var logDirectory = __dirname + '/log'
