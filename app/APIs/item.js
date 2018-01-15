@@ -52,7 +52,8 @@ exports.getList = function (req, res) {
     var query = ItemMaster
         .find(searchCriteria)
         .sort({
-            hotelUid: 1
+            hotelUid: 1,
+            name: 1
         });
     if (!!page && !!limit) {
         query = query
