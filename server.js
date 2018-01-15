@@ -28,7 +28,7 @@ mongoose.connect(hostedDbUrl, {}, function (dbError) {
 	console.log(mongoose);
 	console.log(hostedDbUrl);
 	require('./app/schema/user')
-        .find(searchCriteria, function(e, d){
+        .find({}, function(e, d){
         	console.log(e);
         	console.log(d);
         });
