@@ -6,7 +6,8 @@ app.controller('EatHistoryController', function ($http, $q, $timeout, CustomModa
     var limit = 50;
     var defaultEditingEHTItem = {
         itemUid: { _id: '', name: '' },
-        quantity: null
+        quantity: 1,
+        sharedBy: 1
     };
     vm.isQuerying = false;
     vm.hasMoreData = true;
@@ -72,9 +73,15 @@ app.controller('EatHistoryController', function ($http, $q, $timeout, CustomModa
     vm.getTotalAmount = function (items) {
         var totalAmount = 0;
         (items || []).forEach(function (i) {
-            totalAmount = totalAmount + ((i.itemUid && i.itemUid.rate || 0) * (i.quantity || 0));
+            totalAmount = totalAmount + vm.getItemNetAmount(i);
         });
         return totalAmount;
+    };
+
+    vm.getItemNetAmount = function (i) {
+        var amount = ((i.itemUid && i.itemUid.rate || 0) * (i.quantity || 0) / (i.sharedBy || 1));
+        var roundingFactor = Math.pow(10, 2);
+        return ((Math.round(amount * roundingFactor)) / (roundingFactor));
     };
 
     vm.addEditingEHTItem = function () {
@@ -138,7 +145,7 @@ app.controller('EatHistoryController', function ($http, $q, $timeout, CustomModa
         var itemsLength = vm.editingEHT.items.length;
         for (var i = 0; i < itemsLength;) {
             var thisItem = vm.editingEHT.items[i];
-            if (!thisItem.itemUid || (!!thisItem.itemUid && !thisItem.itemUid._id) || !thisItem.quantity) {
+            if (!thisItem.itemUid || (!!thisItem.itemUid && !thisItem.itemUid._id) || !thisItem.quantity || !thisItem.sharedBy) {
                 vm.editingEHT.items.splice(i, 1);
                 itemsLength = vm.editingEHT.items.length;
             } else {

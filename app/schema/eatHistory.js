@@ -22,6 +22,7 @@ var EatHistorySchema = new Schema({
             ref: 'Item'
         },
         quantity: Number,
+        sharedBy: Number,
         amount: Number
     }]
 });

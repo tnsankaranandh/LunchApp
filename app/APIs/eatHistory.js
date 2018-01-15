@@ -16,6 +16,7 @@ exports.create = function (req, res) {
         newEHT.items.push({
             itemUid: i.itemUid,
             quantity: i.quantity,
+            sharedBy: i.sharedBy,
             amount: i.amount
         });
     });
@@ -48,6 +49,7 @@ exports.update = function (req, res) {
                 ehtDoc.items.push({
                     itemUid: i.itemUid,
                     quantity: i.quantity,
+                    sharedBy: i.sharedBy,
                     amount: i.amount
                 });
             });

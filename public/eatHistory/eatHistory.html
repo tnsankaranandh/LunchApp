@@ -54,6 +54,7 @@
                         <tr>
                             <th>Item</th>
                             <th>Quantity</th>
+                            <th>Item shared by how many peoples ?</th>
                             <th class="text-right">Amount</th>
                             <th>Add/Remove</th>
                         </tr>
@@ -66,8 +67,11 @@
                             <td>
                                 <input type="number" class="form-control text-right" ng-model="vm.editingEHT.items[$index].quantity" />
                             </td>
+                            <td>
+                                <input type="number" class="form-control text-right" ng-model="vm.editingEHT.items[$index].sharedBy" />
+                            </td>
                             <td class="text-right">
-                                {{(vm.editingEHT.items[$index].itemUid.rate || 0) * (vm.editingEHT.items[$index].quantity || 0)}}
+                                {{vm.getItemNetAmount(vm.editingEHT.items[$index])}}
                             </td>
                             <td>
                                 <button ng-click="vm.removeEditingEHTItem($index)" class="btn btn-danger" ng-if="vm.editingEHT.items.length > 1"> Remove </button>
