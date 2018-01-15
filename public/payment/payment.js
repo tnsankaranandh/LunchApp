@@ -47,7 +47,7 @@ app.controller('PaymentController', function ($http, $q, $timeout, CustomModalSe
             amount: 0,
             isInEditMode: true
         });
-        vm.enableTypeAheads(vm.payments.length - 1);
+        vm.enableTypeAheads(0);
     };
 
     vm.savePayment = function (p) {

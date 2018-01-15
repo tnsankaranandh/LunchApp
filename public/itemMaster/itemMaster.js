@@ -46,7 +46,7 @@ app.controller('ItemMasterController', function ($http, $q, $timeout) {
             rate: 0,
             isInEditMode: true
         });
-        vm.enableTypeAhead(vm.items.length - 1);
+        vm.enableTypeAhead(0);
     };
 
     vm.saveItem = function (i) {
