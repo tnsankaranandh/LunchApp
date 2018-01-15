@@ -58,7 +58,6 @@ app.controller('ItemMasterController', function ($http, $q, $timeout) {
         $http
             .post(url, i)
             .then(function (successResponse) {
-                console.log(successResponse);
                 i._id = successResponse.data.uid;
             }, function (errorResponse) {
                 console.log(errorResponse);
