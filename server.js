@@ -27,7 +27,7 @@ mongoose.connect(hostedDbUrl, {}, function (dbError) {
 	if (!!dbError) { console.log(dbError); }
 	console.log(mongoose);
 	console.log(hostedDbUrl);
-	UserMaster
+	require('./app/schema/user')
         .find(searchCriteria, function(e, d){
         	console.log(e);
         	console.log(d);
