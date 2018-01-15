@@ -26,6 +26,7 @@ var localDBUrl = 'mongodb://127.0.0.1/lunchdb';
 mongoose.connect(hostedDbUrl, {}, function (dbError) {
 	if (!!dbError) { console.log(dbError); }
 	console.log(Object.keys(mongoose.models.Hotel));
+	console.log(Object.keys(mongoose.models.Hotel));
 	console.log(hostedDbUrl);
 	require('./app/schema/user')
         .find({}, function(e, d){
