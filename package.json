@@ -2,10 +2,11 @@
   "name": "lunchapp",
   "main": "server.js",
   "dependencies": {
-    "node" : "~4.2.6",
-    "mongoose" : "^4.4.3",
-    "body-parser" : "~1.4.2",
-    "method-override" : "~2.0.2"
+    "mongoose": "^4.4.3",
+    "body-parser": "~1.4.2",
+    "method-override": "~2.0.2"
+  },
+  "engines": {
+    "node": "4.2.6"
   }
 }
-
