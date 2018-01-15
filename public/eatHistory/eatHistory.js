@@ -50,7 +50,7 @@ app.controller('EatHistoryController', function ($http, $q, $timeout, CustomModa
     vm.openEHDetail = function (ehId) {
         function modalOpener(eht) {
             vm.editingEHT = eht || {};
-            vm.editingEHT.eatDate = new Date(vm.editingEHT.eatDate || null);
+            vm.editingEHT.eatDate = vm.editingEHT.eatDate && new Date(vm.editingEHT.eatDate) || new Date();
             CustomModalService.Open('ehDetailModal');
         };
         if (!!ehId) {
