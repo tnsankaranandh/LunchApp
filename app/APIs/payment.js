@@ -115,20 +115,24 @@ exports.getPendings = function (req, res) {
                     uCallback();
                     return;
                 }
-                pendingPayments.push({
-                    amount: ppAmount,
-                    userName: u.name
-                });
+                if (!isNaN(ppAmount) && ppAmount !== 0 && ppAmount !== null) {
+                    pendingPayments.push({
+                        amount: ppAmount,
+                        userName: u.name
+                    });
+                }
                 getPendingReceives(userUid, u._id, function (ppError, prAmount) {
                     asyncError = ppError;
                     if (!!asyncError) {
                         uCallback();
                         return;
                     }
-                    pendingReceives.push({
-                        amount: prAmount,
-                        userName: u.name
-                    });
+                    if (!isNaN(prAmount) && prAmount !== 0 && prAmount !== null) {
+                        pendingReceives.push({
+                            amount: prAmount,
+                            userName: u.name
+                        });
+                    }
                     uCallback();
                 });
             });
@@ -145,6 +149,9 @@ exports.getPendings = function (req, res) {
     };
 
     function getPendingPays(baseUserUid, fromUserUid, ppCallback) {
+        if ((baseUserUid || '').toString() === (fromUserUid || '').toString()) {
+            ppCallback(null, 0);
+        }
         EatHistoryTransaction
             .find({
                 eatUserUid: mongoose.Types.ObjectId(baseUserUid),
@@ -184,6 +191,9 @@ exports.getPendings = function (req, res) {
     };
 
     function getPendingReceives(baseUserUid, fromUserUid, prCallback) {
+        if ((baseUserUid || '').toString() === (fromUserUid || '').toString()) {
+            prCallback(null, 0);
+        }
         EatHistoryTransaction
             .find({
                 eatUserUid: mongoose.Types.ObjectId(fromUserUid),
