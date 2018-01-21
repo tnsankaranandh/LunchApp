@@ -48,7 +48,10 @@
                 <input class="form-control" id="detailUserTypeAhead" ng-init="vm.enableDetailTypeAhead()" value="{{vm.detailUserUid.name}}" />
             </div>
             <div ng-show="vm.detailUserUid._id" class="container">
-                <div class="row">
+                <div ng-if="!!vm.isLoadingPendings">
+                    Loading...
+                </div>
+                <div class="row" ng-if="!vm.isLoadingPendings">
                     <div class="col">
                         <table class="table table-striped table-hover table-condensed" ng-if="vm.pendingPayments.length">
                             <thead>

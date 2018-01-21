@@ -124,16 +124,19 @@ app.controller('PaymentController', function ($http, $q, $timeout, CustomModalSe
     };
 
     function updatePendings() {
+        vm.isLoadingPendings = true;
         $http
             .post('/payment/getPendings', {
                 userUid: vm.detailUserUid._id
             })
             .then(function (successResponse) {
+                vm.isLoadingPendings = false;
                 if (!!successResponse && !!successResponse.data) {
                     vm.pendingReceives = (successResponse.data.pendingReceives || []).filter(function (pr) { return !!pr.amount; });
                     vm.pendingPayments = (successResponse.data.pendingPayments || []).filter(function (pp) { return !!pp.amount; });
                 }
             }, function (errorResponse) {
+                vm.isLoadingPendings = false;
                 console.log(errorResponse);
                 alert('Error while getting Pending Payments.');
             });

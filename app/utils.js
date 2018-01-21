@@ -32,7 +32,13 @@ function getObjectValues(obj) {
     return returnArray;
 };
 
+function getRoundedAmount(amount) {
+    var roundingFactor = Math.pow(10, 2);
+    return ((Math.round(amount * roundingFactor)) / (roundingFactor));
+};
+
 exports.doLog = doLog;
 exports.doErrorResponse = doErrorResponse;
 exports.doSuccessResponse = doSuccessResponse;
 exports.getObjectValues = getObjectValues;
+exports.getRoundedAmount = getRoundedAmount;

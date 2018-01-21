@@ -75,13 +75,12 @@ app.controller('EatHistoryController', function ($http, $q, $timeout, CustomModa
         (items || []).forEach(function (i) {
             totalAmount = totalAmount + vm.getItemNetAmount(i);
         });
-        return totalAmount;
+        return getRoundedAmount(totalAmount);
     };
 
     vm.getItemNetAmount = function (i) {
         var amount = ((i.itemUid && i.itemUid.rate || 0) * (i.quantity || 0) / (i.sharedBy || 1));
-        var roundingFactor = Math.pow(10, 2);
-        return ((Math.round(amount * roundingFactor)) / (roundingFactor));
+        return getRoundedAmount(amount);
     };
 
     vm.addEditingEHTItem = function () {
@@ -177,5 +176,10 @@ app.controller('EatHistoryController', function ($http, $q, $timeout, CustomModa
                 console.log(errorResponse);
                 alert('Error while saving Item.');
             });
+    };
+
+    function getRoundedAmount(amount) {
+        var roundingFactor = Math.pow(10, 2);
+        return ((Math.round(amount * roundingFactor)) / (roundingFactor));
     };
 });

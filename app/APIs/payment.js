@@ -151,6 +151,7 @@ exports.getPendings = function (req, res) {
     function getPendingPays(baseUserUid, fromUserUid, ppCallback) {
         if ((baseUserUid || '').toString() === (fromUserUid || '').toString()) {
             ppCallback(null, 0);
+            return;
         }
         EatHistoryTransaction
             .find({
@@ -185,7 +186,7 @@ exports.getPendings = function (req, res) {
                             totalPaidAmount = totalPaidAmount + pay.amount;
                         });
 
-                        ppCallback(null, totalEatAmount - totalPaidAmount);
+                        ppCallback(null, utils.getRoundedAmount(totalEatAmount - totalPaidAmount));
                     });
             });
     };
@@ -193,6 +194,7 @@ exports.getPendings = function (req, res) {
     function getPendingReceives(baseUserUid, fromUserUid, prCallback) {
         if ((baseUserUid || '').toString() === (fromUserUid || '').toString()) {
             prCallback(null, 0);
+            return;
         }
         EatHistoryTransaction
             .find({
@@ -227,7 +229,7 @@ exports.getPendings = function (req, res) {
                             totalPaidAmount = totalPaidAmount + pay.amount;
                         });
 
-                        prCallback(null, totalEatAmount - totalPaidAmount);
+                        prCallback(null, utils.getRoundedAmount(totalEatAmount - totalPaidAmount));
                     });
             });
     };
