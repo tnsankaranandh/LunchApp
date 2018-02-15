@@ -141,6 +141,45 @@ exports.getPendings = function (req, res) {
                 utils.doErrorResponse(req, res, 'Error while calculating Pending Payments!', asyncError, 500);
                 return;
             }
+            var ppLength = pendingPayments.length;
+            var prLength = pendingReceives.length;
+
+            for (var ppl = 0; ppl < ppLength; ppl++) {
+                var pp = pendingPayments[ppl];
+                var prIndex = -1;
+                var prAmount = 0;
+                for (var prl = 0; prl < prLength; prl++) {
+                    var pr = pendingReceives[prl];
+                    if (pr.userName === pp.userName) {
+                        prIndex = prl;
+                        prAmount = pr.amount;
+                        break;
+                    }
+                }
+                if (prAmount !== 0 && pp.amount > prAmount) {
+                    pendingPayments[ppl].amount = pp.amount - prAmount;
+                    pendingReceives.splice(prIndex, 1);
+                    prLength = pendingReceives.length;
+                }
+            }
+            for (var prL = 0; prL < prLength; prL++) {
+                var pR = pendingReceives[prL];
+                var ppIndex = -1;
+                var ppAmount = 0;
+                for (var ppL = 0; ppL < ppLength; ppL++) {
+                    var pP = pendingPayments[ppL];
+                    if (pP.userName === pR.userName) {
+                        ppIndex = ppL;
+                        ppAmount = pP.amount;
+                        break;
+                    }
+                }
+                if (ppAmount !== 0 && pR.amount > ppAmount) {
+                    pendingReceives[prL].amount = pR.amount - ppAmount;
+                    pendingPayments.splice(ppIndex, 1);
+                    ppLength = pendingPayments.length;
+                }
+            }
             utils.doSuccessResponse({
                 pendingPayments: pendingPayments,
                 pendingReceives: pendingReceives
