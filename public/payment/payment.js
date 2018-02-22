@@ -134,6 +134,10 @@ app.controller('PaymentController', function ($http, $q, $timeout, CustomModalSe
                 if (!!successResponse && !!successResponse.data) {
                     vm.pendingReceives = (successResponse.data.pendingReceives || []).filter(function (pr) { return !!pr.amount; });
                     vm.pendingPayments = (successResponse.data.pendingPayments || []).filter(function (pp) { return !!pp.amount; });
+                    vm.totalPP = 0;
+                    (vm.pendingPayments || []).forEach(function (pp) { vm.totalPP = vm.totalPP + (pp.amount || 0); });
+                    vm.totalPR = 0;
+                    (vm.pendingReceives || []).forEach(function (pr) { vm.totalPR = vm.totalPR + (pr.amount || 0); });
                 }
             }, function (errorResponse) {
                 vm.isLoadingPendings = false;

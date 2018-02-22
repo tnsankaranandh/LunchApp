@@ -67,6 +67,11 @@
                                         <label class="badge badge-danger">{{pp.userName}}</label>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>
+                                        <label class="badge badge-danger">TOTAL<br/>{{vm.totalPP}}&nbsp;&nbsp;to&nbsp;&nbsp;ALL</label>
+                                    </td>
+                                </tr>
                             </tbody>
                         </table>
                         <div ng-if="!vm.pendingPayments.length">
@@ -86,6 +91,11 @@
                                         <label class="badge badge-success">{{pr.amount}}</label>
                                         &nbsp;&nbsp;from&nbsp;&nbsp;
                                         <label class="badge badge-success">{{pr.userName}}</label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label class="badge badge-success">TOTAL<br/>{{vm.totalPR}}&nbsp;&nbsp;from&nbsp;&nbsp;ALL</label>
                                     </td>
                                 </tr>
                             </tbody>
